@@ -2,14 +2,18 @@
 🎓 I'm an **AI Engineering graduate from Cairo University**, passionate about leveraging Artificial Intelligence for real-world impact.  
 🔭 I recently completed my graduation project, **AnemoCare: AI Anemia Management for Hemodialysis Patients**, focusing on healthcare optimization using AI and OCR.  
 👯 I’m looking to collaborate on **AI, Computer Vision, and Healthcare** projects.  
-🌱 Currently learning **Flutter**, **role-based authentication**, and **AI model deployment**.  
+🌱 Currently learning **Gen AI**,and **AI model deployment**.  
 💬 Ask me about **AI, Deep Learning, Computer Vision, Django, Flutter**, or even **fitness training**!  
 ⚡ Fun fact: I love optimizing **fitness plans** almost as much as optimizing **neural networks**!
+My portifolio : https://ghazali.pythonanywhere.com/
+
+
 
 ## 🚀 Featured Projects:
 - 🩸 [**AnemoCare**](https://github.com/AhGh20/AnemoCare) — AI-based anemia management for hemodialysis patients using OCR and ML.  
 - 💪 [**Gymee**](https://github.com/AhGh20/Gymee_v2) — A fitness web app built with Django and Bootstrap for personalized workouts.  
 - 🧠 [**Deepfake Detection**](https://github.com/AhGh20/Deepfake-Detection) — Detecting synthetic media using CNN-based architectures.
+- All projects u can find it here : https://ghazali.pythonanywhere.com/projects/
 ## 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahghazali2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-ghazali/)
@@ -40,8 +44,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhGh20&limit=5&theme=dark&combine_all_yearly_contributions=true)
