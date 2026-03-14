@@ -13,7 +13,7 @@ My portifolio : https://ghazali.pythonanywhere.com/
 - 🩸 [**AnemoCare**](https://github.com/AhGh20/AnemoCare) — AI-based anemia management for hemodialysis patients using OCR and ML.  
 - 💪 [**Gymee**](https://github.com/AhGh20/Gymee_v2) — A fitness web app built with Django and Bootstrap for personalized workouts.  
 - 🧠 [**Deepfake Detection**](https://github.com/AhGh20/Deepfake-Detection) — Detecting synthetic media using CNN-based architectures.
-- All projects u can find it here : https://ghazali.pythonanywhere.com/projects/
+- All projects u can find it here : https://ahmedalghazali.com/projects/
 ## 🌐 Connect with Me:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahghazali2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-ghazali/)
