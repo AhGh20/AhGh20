@@ -5,7 +5,7 @@
 🌱 Currently learning **Gen AI**,and **AI model deployment**.  
 💬 Ask me about **AI, Deep Learning, Computer Vision, Django, Flutter**, or even **fitness training**!  
 ⚡ Fun fact: I love optimizing **fitness plans** almost as much as optimizing **neural networks**!
-My portifolio : https://ghazali.pythonanywhere.com/
+My portifolio : https://AhmedALGhazali.com
 
 
 
