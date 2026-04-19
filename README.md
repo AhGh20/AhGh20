@@ -1,12 +1,18 @@
-# 💫 About Me:
-🎓 I'm an **AI Engineering graduate from Cairo University**, passionate about leveraging Artificial Intelligence for real-world impact.  
-🔭 I recently completed my graduation project, **AnemoCare: AI Anemia Management for Hemodialysis Patients**, focusing on healthcare optimization using AI and OCR.  
-👯 I’m looking to collaborate on **AI, Computer Vision, and Healthcare** projects.  
-🌱 Currently learning **Gen AI**,and **AI model deployment**.  
-💬 Ask me about **AI, Deep Learning, Computer Vision, Django, Flutter**, or even **fitness training**!  
-⚡ Fun fact: I love optimizing **fitness plans** almost as much as optimizing **neural networks**!
-My portifolio : https://AhmedALGhazali.com
+# About Me
 
+🎓 AI Engineering graduate from Cairo University with a strong interest in applying Artificial Intelligence to real-world problems.
+
+🔬 Developed “AnemoCare: AI Anemia Management for Hemodialysis Patients” — a healthcare-focused system combining AI and OCR for treatment optimization and data extraction.
+
+💡 Interested in AI, Computer Vision, and healthcare applications, with a focus on building practical and scalable solutions.
+
+🚀 Currently learning Generative AI and AI model deployment.
+
+🛠️ Skills: Deep Learning, Computer Vision, Django, Flutter
+
+💬 Open to collaboration on AI-related projects and research opportunities.
+
+🌐 Portfolio: https://ahmedalghazali.com
 
 
 ## 🚀 Featured Projects:
