@@ -1,61 +1,19 @@
-# About Me
+# Ahmed Al-Ghazali
 
-🎓 AI Engineering graduate from Cairo University with a strong interest in applying Artificial Intelligence to real-world problems.
+AI Engineer building things with Python, machine learning, and a bit of everything in between.
 
-🔬 Developed “AnemoCare: AI Anemia Management for Hemodialysis Patients” — a healthcare-focused system combining AI and OCR for treatment optimization and data extraction.
+I like working on projects where AI is actually part of the product — from training models and processing data to building the backend, connecting everything together, and getting it deployed.
 
-💡 Interested in AI, Computer Vision, and healthcare applications, with a focus on building practical and scalable solutions.
+Some things I've built:
 
-🚀 Currently learning Generative AI and AI model deployment.
+* **[MindTrack](https://ahmedalghazali.com/projects/mindtrack-ai)** — Adaptive learning platform using Bayesian Knowledge Tracing.
+* **[AnemoCare](https://ahmedalghazali.com/projects/anemocare-ai-anemia-management)** — AI-assisted anemia management system combining machine learning and OCR.
+* **[Fawzy AI](https://ahmedalghazali.com/projects/fawzy-ai/)** — RAG-based AI assistant built with LLMs, embeddings, and LangChain.
 
-🛠️ Skills: Deep Learning, Computer Vision, Django, Flutter
+[more projects →](https://ahmedalghazali.com/projects/)
 
-💬 Open to collaboration on AI-related projects and research opportunities.
+### Currently working with
 
-🌐 Portfolio: https://ahmedalghazali.com
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Django` `FastAPI` `Flutter` `PostgreSQL` `Docker` `Git`
 
-
-## 🚀 Featured Projects:
-- 🩸 [**AnemoCare**](https://ahmedalghazali.com/projects/anemocare-ai-anemia-management) — AI-based anemia management for hemodialysis patients using OCR and ML.  
-- 💪 [**Gymee**](https://ahmedalghazali.com/projects/gymee-fitness-workout-platform/) — A fitness web app built with Django and Bootstrap for personalized workouts.  
-- All projects u can find it here : https://ahmedalghazali.com/projects/
-## 🌐 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahghazali2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-ghazali/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/AhGh20)
-
-# 💻 Tech Stack:
-
-**AI & Machine Learning:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Web & Mobile Development:**  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhGh20&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AhGh20&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-💡 *"Continuous learning and self-improvement are the keys to AI and life."*  
-📩 Feel free to reach out — I’m always open to interesting collaborations!
+[Portfolio](https://ahmedalghazali.com) · [LinkedIn](https://www.linkedin.com/in/ahmed-al-ghazali/) · [Email](mailto:ahghazali2003@gmail.com)
